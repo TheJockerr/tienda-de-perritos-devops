@@ -1,4 +1,4 @@
-name: CI/CD Tienda Perritos AWS ECS
+name: CI/CD Tienda Perritos AWS ECSgg
 
 on:
   push:
