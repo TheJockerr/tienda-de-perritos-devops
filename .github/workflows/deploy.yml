@@ -6,8 +6,9 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  # REEMPLAZA EL "101578747734" POR TU ID DE CUENTA DE AWS ACADEMY
-  ACCOUNT_ID: "905418320793" 
+  # REEMPLAZA EL "381491982193" POR TU ID DE CUENTA DE AWS ACADEMY
+  ACCOUNT_ID: "381491982193"
+               
 
 jobs:
   # ==========================================
